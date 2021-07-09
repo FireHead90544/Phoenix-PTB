@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# PyCharm / VSCode generated files
+.idea/*
+.vscode/*
+
 # Distribution / packaging
 .Python
 build/
